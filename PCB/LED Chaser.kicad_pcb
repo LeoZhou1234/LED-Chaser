@@ -8942,7 +8942,7 @@
 			)
 		)
 	)
-	(gr_text "L.Z.\n12/25\nILY <3"
+	(gr_text "L.Z.\n12/25"
 		(at 133.005 48 0)
 		(layer "B.SilkS")
 		(uuid "6b4fb20c-34d5-4dae-be5a-a892a354394c")
