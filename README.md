@@ -9,7 +9,7 @@ Gerbers were generated matching JLCPCB guidelines.
 ## PCB ##
 
 ![PCB](./Images/PCB.png)  
-(Snoopy silkscreen removed for clarity)
+(Snoopy silkscreen omitted for clarity)
 
 ![Front of PCB](./Images/pcbFront.png)
 ![Back of PCB](./Images/pcbBack.png)
